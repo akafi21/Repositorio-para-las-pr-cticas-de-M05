@@ -1,7 +1,7 @@
 /*
  * Program.java        20.10.2020
  *
- * Program to calculate the area and the perimeter
+ * Program to modify the area and the perimeter
  * of a circle knowing the radius in meter.
  *
  * Copyright 2020 Joan Sèculi <jseculi@escoladeltreball.org>
